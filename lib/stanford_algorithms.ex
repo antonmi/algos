@@ -1,0 +1,2 @@
+defmodule StanfordAlgorithms do
+end
